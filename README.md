@@ -5,8 +5,8 @@
 </p>
 
 🎓 **Biochemistry graduate** from the University of Seville and the University of Málaga (2018–2024).  
-🔬 Started my research at IBVF in 2024, focusing on *Chlamydomonas reinhardtii* mutants.  
 📊 Currently pursuing a Master's in **Omics Data Analysis & Systems Biology**, working on **RNA-Seq** analysis.  
+🔬 Started my research at IBVF in 2023, focusing on *Chlamydomonas reinhardtii* mutants.  
 🧠 Interested in systems biology, omics, model organisms & bioinformatics automation.
 
 ---
@@ -39,5 +39,3 @@
 </p>
 
 ---
-
-🔬 *Exploring the intersection of molecular biology, systems thinking, and computational tools.*

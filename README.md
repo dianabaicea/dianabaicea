@@ -1,4 +1,4 @@
-<h1 align="center">  Diana Andreea Baicea </h1>
+<h1 align="center">  Diana-Andreea Baicea </h1>
 <!-- Profile Header with Gradient and Icons -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffc5cb&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Biochemist+%7C+Computer+Science+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />

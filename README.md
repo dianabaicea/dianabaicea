@@ -29,12 +29,15 @@
   </picture>
 </p>
 
+---
+
 ### 📬 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diana-baicea/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:diana.baicea@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 ---
 
 🔬 *Exploring the intersection of molecular biology, systems thinking, and computational tools.*

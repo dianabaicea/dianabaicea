@@ -4,10 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffc5cb&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Biochemist+%7C+Computer+Science+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />
 </p>
 
-🎓 **Biochemistry graduate** from the University of Seville and the University of Málaga (2018–2024).  
-📊 Currently pursuing a Master's in **Omics Data Analysis & Systems Biology**, working on **RNA-Seq** analysis.  
-🔬 Started my research at IBVF in 2023, focusing on *Chlamydomonas reinhardtii* mutants.  
-🧠 Interested in systems biology, omics, model organisms & bioinformatics automation.
+🎓 BSc Biochemistry | MSc Omics Data Analysis & Systems Biology
+🔬 PhD student at the University of Seville working on multi-omics analysis of temperature effects in microalgae.
+🧠 Interested in systems biology, omics integration, microalgae biotechnology & bioinformatics.
 
 ---
 

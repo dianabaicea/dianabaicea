@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffc5cb&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Biochemist+%7C+Computer+Science+Enthusiast;Always+learning+and+improving" alt="Typing SVG" />
 </p>
 
-🎓 BSc Biochemistry | MSc Omics Data Analysis & Systems Biology
-🔬 PhD student at the University of Seville working on multi-omics analysis of temperature effects in microalgae.
+🎓 BSc Biochemistry | MSc Omics Data Analysis & Systems Biology.  
+🔬 PhD student at the University of Seville working on multi-omics analysis of temperature effects in microalgae.  
 🧠 Interested in systems biology, omics integration, microalgae biotechnology & bioinformatics.
 
 ---
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diana-baicea/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:diana.baicea@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dbaicea@us.es"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
